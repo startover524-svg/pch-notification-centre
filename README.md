@@ -167,7 +167,7 @@ Update in `index.html`:
 ### Team Members
 Modify the team section with your actual team information
 Operations Manager kevin must
-
+- Director owen O'donoghue
 ### Testimonials
 Replace sample testimonials with real client feedback
 
