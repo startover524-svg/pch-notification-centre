@@ -160,12 +160,13 @@ Edit the color values in `styles.css`:
 
 ### Contact Information
 Update in `index.html`:
-- Email: Change `info@pchnotificationcentre.com`
-- Phone: Change `(000) 000-0000`
+- Email: Change `Pchprcentre@outlook.com`
+- Phone: Change `(646) 307-9021`
 - Business hours: Update the hours section
 
 ### Team Members
 Modify the team section with your actual team information
+Operations Manager kevin must
 
 ### Testimonials
 Replace sample testimonials with real client feedback
